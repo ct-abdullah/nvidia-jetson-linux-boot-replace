@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=MyBrand
+Description=my Custom gaming OS Boot system
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/mybrand
+ScriptFile=/usr/share/plymouth/themes/mybrand/mybrand.script
+
